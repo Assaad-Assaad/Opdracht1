@@ -1,0 +1,14 @@
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\bin\Debug\net7.0\Opdracht1.exe
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\bin\Debug\net7.0\Opdracht1.deps.json
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\bin\Debug\net7.0\Opdracht1.runtimeconfig.json
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\bin\Debug\net7.0\Opdracht1.dll
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\bin\Debug\net7.0\Opdracht1.pdb
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\Opdracht1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\Opdracht1.AssemblyInfoInputs.cache
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\Opdracht1.AssemblyInfo.cs
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\Opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\Opdracht1.dll
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\refint\Opdracht1.dll
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\Opdracht1.pdb
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\Opdracht1.genruntimeconfig.cache
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht1\Opdracht1\obj\Debug\net7.0\ref\Opdracht1.dll
